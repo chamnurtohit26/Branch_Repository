@@ -1,5 +1,7 @@
 This is Tohit 1+ Bug Fix This Line
 This is Tohit 2
 This is Tohit 3
+<<<<<<< HEAD
 This is Tohit 4
 This is Tohit 5 +Bug Fix This Line
+This is Tohit 6 +Bug Fix This Line
